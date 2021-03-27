@@ -8,5 +8,6 @@
   	<module>spring-mongoDB</module>
   	<module>spring-swagger</module>
   	<module>spring-rabbitmq</module>
+  	<module>spring-redis</module>
   </modules>
 </project>
