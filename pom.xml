@@ -9,5 +9,6 @@
   	<module>spring-swagger</module>
   	<module>spring-rabbitmq</module>
   	<module>spring-redis</module>
+  	<module>spring-mongoDB-FileUpload</module>
   </modules>
 </project>
