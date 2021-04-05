@@ -10,5 +10,6 @@
   	<module>spring-rabbitmq</module>
   	<module>spring-redis</module>
   	<module>spring-mongoDB-FileUpload</module>
+  	<module>spring-feignClient</module>
   </modules>
 </project>
